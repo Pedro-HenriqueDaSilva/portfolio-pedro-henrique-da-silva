@@ -36,29 +36,11 @@ Atualmente cursando o [1º] período de [Analise e Desenvolvimento de Sistemas] 
 ### 📂 Portfólio de Projetos
  
 #### 🗃️ Corrida do Prompt
-| Experiencia 01  | O Objetivo
-Em trios, vocês devem gerar um resultado específico (texto ou imagem, conforme definido pelo professor) utilizando o celular/computador. O grande desafio? Vocês têm um limite de apenas 5 iterações (tentativas) para chegar à perfeição.
 
-A Dinâmica do Jogo
-A Largada: O professor fornecerá o "Alvo" (ex: "Uma imagem de um astronauta estilo barroco tocando violoncelo em Marte (IMAGEM)" ou "Um e-mail formal de desculpas de um pirata para um rei (TEXTO)").
-Gerar a imagem
-Gerar o texto
-Separados ….
-O Ciclo de Refinamento: Para cada resposta que a IA gerar, o trio deve realizar duas ações antes de enviar o próximo prompt:
-Avaliar (Taxonomia de Bloom): Analisem criticamente a resposta atual. O que falta? O tom está correto? A IA ignorou algum detalhe? Vocês estão criando algo novo ou apenas repetindo o erro?
-Integrar (Taxonomia de Fink): Conectem o erro ao novo aprendizado. Como a mudança de uma única palavra ou a adição de um contexto geográfico altera a percepção da IA? Apliquem esse feedback para construir a próxima instrução.|
-
-
-Link 1 - Astronauta https://chat.qwen.ai/c/f9fb9d8f-469d-46e1-9062-fd53ee9141a3
-
-link 2 - E-mail pirata - https://chat.qwen.ai/c/b0d9ff90-d0b2-4051-9c4c-24f547c8b0af
-|
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
- 
 #### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
+| Projeto| Descrição | Link |
+| Nesta atividade, vocês não serão apenas usuários de Inteligência Artificial, mas engenheiros de instrução. O objetivo é dominar a técnica de comunicação com modelos de linguagem (LLMs) para obter resultados de alta precisão no menor tempo possível. | Avaliar (Taxonomia de Bloom): analisar criticamente o resultado, identificando erros, detalhes ausentes, tom inadequado ou repetições.
+Integrar (Taxonomia de Fink): aplicar o aprendizado obtido no próximo prompt, ajustando palavras, contexto ou informações para melhorar a resposta da IA. | :---: |
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
  
 ---
