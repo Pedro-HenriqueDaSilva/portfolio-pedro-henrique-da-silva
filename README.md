@@ -40,7 +40,7 @@ Atualmente cursando o [1º] período de [Analise e Desenvolvimento de Sistemas] 
 #### 🤖 Inteligência Artificial
 | Projeto| Descrição | Link |
 | :--- | :--- | :---: |
-| Nesta atividade, vocês não serão apenas usuários de Inteligência Artificial, mas engenheiros de instrução. O objetivo é dominar a técnica de comunicação com modelos de linguagem (LLMs) para obter resultados de alta precisão no menor tempo possível. | Avaliar (Taxonomia de Bloom): analisar criticamente o resultado, identificando erros, detalhes ausentes, tom inadequado ou repetições.Integrar (Taxonomia de Fink): aplicar o aprendizado obtido no próximo prompt, ajustando palavras, contexto ou informações para melhorar a resposta da IA. | [Ver Projeto](./Experiência01ACorridadoPrompt) |
+| Nesta atividade, vocês não serão apenas usuários de Inteligência Artificial, mas engenheiros de instrução. O objetivo é dominar a técnica de comunicação com modelos de linguagem (LLMs) para obter resultados de alta precisão no menor tempo possível. | Avaliar (Taxonomia de Bloom): analisar criticamente o resultado, identificando erros, detalhes ausentes, tom inadequado ou repetições.Integrar (Taxonomia de Fink): aplicar o aprendizado obtido no próximo prompt, ajustando palavras, contexto ou informações para melhorar a resposta da IA. | [Ver Projeto](./ARQUIVOS-FACU) |
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
  
 ---
