@@ -1,0 +1,55 @@
+{
+  "entities": {
+    "userProfiles": {
+      "title": "Perfil de Usuário",
+      "description": "Dados do perfil do administrador",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "email": { "type": "string" },
+        "displayName": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "lastLogin": { "type": "string", "format": "date-time" },
+        "isAdmin": { "type": "boolean" }
+      },
+      "required": ["uid", "email"]
+    },
+    "qrConfigs": {
+      "title": "Configurações de QR Code",
+      "description": "Configurações persistidas pelo usuário",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "name": { "type": "string" },
+        "config": { "type": "object" },
+        "previewUrl": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "config"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "userProfiles",
+      "description": "Perfis de usuários administradores"
+    },
+    "/users/{userId}/savedConfigs/{configId}": {
+      "schema": "qrConfigs",
+      "description": "Configurações de QR Code salvas pelo usuário"
+    },
+    "/users/{userId}/assets/{assetId}": {
+      "schema": {
+        "title": "Ativo do Usuário",
+        "description": "Imagens e logos carregados pelo usuário",
+        "type": "object",
+        "properties": {
+          "url": { "type": "string" },
+          "name": { "type": "string" },
+          "createdAt": { "type": "string", "format": "date-time" }
+        },
+        "required": ["url"]
+      },
+      "description": "Galeria de imagens carregadas"
+    }
+  }
+}
