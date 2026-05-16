@@ -8,6 +8,7 @@ Projetos da aula
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedrohenriqueda-silva)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hpedros783@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/1lrrOXvWFefj640cr2pdeqcLNKwTqDfaeD1orJ1g3Hxs/edit?usp=sharing)
  
 ---
  
