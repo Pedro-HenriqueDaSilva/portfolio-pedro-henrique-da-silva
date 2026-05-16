@@ -7,8 +7,7 @@ O sistema foi desenvolvido utilizando um modelo de página HTML5 Single Page com
 
 Durante os testes, ferramentas como ChatGPT, Gemini, Claude, DeepSeek, Qwen, Grok e Maritaca foram avaliadas com base na precisão do HTML gerado, respeito às tags XML, quantidade de tokens consumidos e ocorrência de erros de sintaxe.
 
-http://googleusercontent.com/image_generation_content/0  
-*Figura 1: Dashboard principal do sistema exibindo recomendações personalizadas.*
+
 
 ---
 
