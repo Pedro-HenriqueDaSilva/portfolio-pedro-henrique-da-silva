@@ -1,4 +1,4 @@
-# 🎬 Sistema de Recomendação de Filmes
+# 🎬 Batalha de Modelos & Engenharia de Prompt (XML)
 
 ## 📝 Descrição do Projeto
 Este projeto consiste em um motor de recomendação inteligente que utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O objetivo principal é reduzir a “paralisia de escolha”, oferecendo recomendações personalizadas com base no histórico de avaliações e preferências dos usuários.
@@ -65,4 +65,4 @@ Para prototipagem rápida, os modelos Gemini e ChatGPT apresentaram melhor desem
 
 ---
 
-[Voltar ao início](https://github.com/seu-usuario/seu-usuario)
+[Voltar ao início](https://docs.google.com/document/d/1fEoZrcYZtsSfXzC6XOeZR4t0a7fWn1wMNor8cmsju8U/edit?usp=sharing)
